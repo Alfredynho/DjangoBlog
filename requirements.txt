@@ -1,0 +1,5 @@
+# Barra de progreso tqdm
+tqdm==4.15.0
+
+# Django
+Django==1.11.3
